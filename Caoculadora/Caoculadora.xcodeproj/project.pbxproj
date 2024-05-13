@@ -11,6 +11,8 @@
 		DB89E9B22BEA6D2D0066991A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB89E9B12BEA6D2D0066991A /* ContentView.swift */; };
 		DB89E9B42BEA6D2F0066991A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB89E9B32BEA6D2F0066991A /* Assets.xcassets */; };
 		DB89E9B72BEA6D2F0066991A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB89E9B62BEA6D2F0066991A /* Preview Assets.xcassets */; };
+		DBA628D32BF24E0200C7BD40 /* Porte.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBA628D22BF24E0200C7BD40 /* Porte.swift */; };
+		DBA628D52BF25BF500C7BD40 /* StyleGuide.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBA628D42BF25BF500C7BD40 /* StyleGuide.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		DB89E9B12BEA6D2D0066991A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DB89E9B32BEA6D2F0066991A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB89E9B62BEA6D2F0066991A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DBA628D22BF24E0200C7BD40 /* Porte.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Porte.swift; sourceTree = "<group>"; };
+		DBA628D42BF25BF500C7BD40 /* StyleGuide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StyleGuide.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				DB89E9AF2BEA6D2D0066991A /* CaoculadoraApp.swift */,
 				DB89E9B12BEA6D2D0066991A /* ContentView.swift */,
+				DBA628D22BF24E0200C7BD40 /* Porte.swift */,
+				DBA628D42BF25BF500C7BD40 /* StyleGuide.swift */,
 				DB89E9B32BEA6D2F0066991A /* Assets.xcassets */,
 				DB89E9B52BEA6D2F0066991A /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				DB89E9B22BEA6D2D0066991A /* ContentView.swift in Sources */,
+				DBA628D32BF24E0200C7BD40 /* Porte.swift in Sources */,
+				DBA628D52BF25BF500C7BD40 /* StyleGuide.swift in Sources */,
 				DB89E9B02BEA6D2D0066991A /* CaoculadoraApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
